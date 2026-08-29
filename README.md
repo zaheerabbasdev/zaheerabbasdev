@@ -78,7 +78,7 @@ A management platform for a trucking company covering employees, trucks, documen
 ## 🤝 Let's Connect
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/zaheer-abbas-890a94240/]
-* 📧 Email: [zabbas092002@gmail.com]
+* 📧 Email: [zabbasdev@gmail.com]
 * 🐙 GitHub: [@zaheerabbasdev](https://github.com/zaheerabbasdev)
 
 ---
